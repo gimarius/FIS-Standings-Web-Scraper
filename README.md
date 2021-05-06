@@ -8,3 +8,7 @@ Die Resultate werden nach Geschlecht getrennt in zwei CSV-Files gespeichert.
 
 
 Autor: Marius Gisler
+
+
+Project at Lucerne University of Applied Sciences and Arts in Master of Science in Applied Information and Data Science
+
